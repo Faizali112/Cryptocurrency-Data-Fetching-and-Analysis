@@ -55,3 +55,7 @@ This project offers a comprehensive toolkit for real-time cryptocurrency data an
   ```bash
   pip install requests pandas openpyxl
   ```
+## Images
+![Screenshot 2024-11-21 223730](https://github.com/user-attachments/assets/54d14d6a-2416-4e39-948a-5ee215982e86)
+![Screenshot 2024-11-21 223836](https://github.com/user-attachments/assets/ec480574-0bda-4579-95f4-c8f4bb82bdfa)
+
